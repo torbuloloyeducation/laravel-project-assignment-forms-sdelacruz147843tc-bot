@@ -13,6 +13,9 @@
     br {
         display: none;
     }
+    h1 {
+        color: pink;
+    }
 </style>
 <body>
 {{ $slot }}
