@@ -7,7 +7,7 @@
 </head>
 <style>
     *{
-        background-color: #a82121;
+        background-color: #18132a;
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     br {
@@ -18,6 +18,7 @@
     }
 </style>
 <body>
+<x-navbar />
 {{ $slot }}
 </body>
 </html>
